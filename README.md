@@ -1,1 +1,1 @@
-My first readme
+Learning to update from github.com
